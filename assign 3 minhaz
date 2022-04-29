@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "to find users and their details"
+$id-g
+$id-G
+$id-u
