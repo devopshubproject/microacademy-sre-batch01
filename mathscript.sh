@@ -6,11 +6,13 @@ echo "we are going to perform addition"
 
 echo "Enter first value for addition, e.g. x=a"
 
-read X
+X=1
+#read X
 
 echo "Enter second value for addition, e.g y=b"
 
-read Y
+Y=1
+#read Y
 
 sum=$(($X + $Y))
 
