@@ -12,7 +12,7 @@ echo "Enter second value for addition, e.g y=b"
 
 read Y
 
-sum = $($X + $Y)
+sum=$(($X + $Y))
 
 echo "The result for addition is"
 
